@@ -1,0 +1,4 @@
+C#A1222#Shirt#6500.0#50#ABC#Red
+E#B1234#Iron#8500.0#42#M#12m
+C#C1234#Trouser#6000.0#20#ABC#Black
+E#D1234#Monitor#45000.0#10#M#24m
